@@ -1,0 +1,19 @@
+{
+  "name": "angular-blog",
+  "version": "1.0.0",
+  "description": "Angular CRUD app center around blog entries",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bmccaffray/angular-blog.git"
+  },
+  "author": "brett mccaffray",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmccaffray/angular-blog/issues"
+  },
+  "homepage": "https://github.com/bmccaffray/angular-blog"
+}
